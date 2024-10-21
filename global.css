@@ -66,6 +66,7 @@ button {
   background-color: var(--secondary);
   border: 2px solid var(--secondary);
   cursor: pointer;
+  color: var(--textLight);
 }
 
 .mainButton {
