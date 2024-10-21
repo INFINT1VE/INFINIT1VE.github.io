@@ -77,7 +77,7 @@ button {
 }
 
 a {
-  color: var(--textLight);
+  color: #050316;
   text-decoration: none;
   cursor: pointer;
 }
